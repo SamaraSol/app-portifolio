@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">app portifolio</string>
+    <string name="app_name">App Portifólio</string>
+    <string name="action_search">Pesquisar</string>
 </resources>
